@@ -1,0 +1,7 @@
+[
+  {
+     "name":"square libc",
+     "_file":"square",
+     "description":"This is test libc with square function"
+  }
+]
