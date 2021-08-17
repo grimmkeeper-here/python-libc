@@ -8,6 +8,8 @@ This is app template for install libc
 
 ## Setup project
 ``` bash
+sudo apt-get install build-essential
+
 python3 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
